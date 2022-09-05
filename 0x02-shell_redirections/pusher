@@ -1,0 +1,11 @@
+#!/bin/bash
+chmod u+x $1
+git add .
+git commit -m 'not doing this again'
+git push
+#!/bin/bash
+chmod u+x $1
+git add .
+git commit -m 'not doing this again'
+git push
+
