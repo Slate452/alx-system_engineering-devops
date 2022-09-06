@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod u+x $1
 git add .
-git commit 
+git commit -m 'qwe'
 git push
